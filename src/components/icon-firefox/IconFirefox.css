@@ -1,0 +1,13 @@
+.logo-container {
+    min-width: 50vw;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    margin: 10px;
+    /* border: red solid 1px; */
+}
+
+.logo-firefox {
+    width:65%;
+}
+

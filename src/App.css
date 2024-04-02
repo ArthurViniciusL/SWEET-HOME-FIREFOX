@@ -1,0 +1,24 @@
+
+* {
+  overflow: hidden;
+  margin: 0;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-image: url("https://source.unsplash.com/random/?cats&1"); */
+}
+
+.input-container {
+  min-width: 100vw;
+  height: 100%;
+  
+  position: absolute;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
