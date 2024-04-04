@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sweet-Home-Firefox/static/css/main.0c5968c0.css",
+    "main.css": "/Sweet-Home-Firefox/static/css/main.64eacede.css",
     "main.js": "/Sweet-Home-Firefox/static/js/main.b9b68e1f.js",
     "static/js/453.8b12196b.chunk.js": "/Sweet-Home-Firefox/static/js/453.8b12196b.chunk.js",
     "static/media/logoFirefox.svg": "/Sweet-Home-Firefox/static/media/logoFirefox.1e1bdb69d1c4449d0d6aa7e68a3df193.svg",
     "index.html": "/Sweet-Home-Firefox/index.html",
-    "main.0c5968c0.css.map": "/Sweet-Home-Firefox/static/css/main.0c5968c0.css.map",
+    "main.64eacede.css.map": "/Sweet-Home-Firefox/static/css/main.64eacede.css.map",
     "main.b9b68e1f.js.map": "/Sweet-Home-Firefox/static/js/main.b9b68e1f.js.map",
     "453.8b12196b.chunk.js.map": "/Sweet-Home-Firefox/static/js/453.8b12196b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c5968c0.css",
+    "static/css/main.64eacede.css",
     "static/js/main.b9b68e1f.js"
   ]
 }
